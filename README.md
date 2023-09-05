@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://cdn.discordapp.com/attachments/1127287128880074855/1148668163299479694/pepefrg-54.gif">
 </p>
 <p align="center">
     cel
