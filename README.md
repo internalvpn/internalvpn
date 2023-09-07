@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/emojis/973963669069238323.webp?size=96&quality=lossless">
+<img src="https://cdn.discordapp.com/attachments/1127287128880074855/1148668163299479694/pepefrg-54.gif">
 </p>
 <p align="center">
     @cel
