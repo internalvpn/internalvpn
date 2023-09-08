@@ -12,5 +12,5 @@
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    <a href="https://wanted.lol/cel">My Socials</a>
+    <a href="https://guns.lol/cel">My Socials</a>
 
