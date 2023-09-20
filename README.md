@@ -11,7 +11,7 @@
 
 <p>    
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/1153406904689774613.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/1153406904689774613.png"/>
 </p>
 <p align="center">
     <a href="https://guns.lol/opsec">PRESS ME</a>
