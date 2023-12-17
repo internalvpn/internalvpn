@@ -14,5 +14,5 @@
   <img src="https://discord.c99.nl/widget/theme-4/1159829439157383178.png"/>
 </p>
 <p align="center">
-    <a href="https://guns.lol/winter">PRESS ME</a>
+    <a href="https://guns.lol/opsec">PRESS ME</a>
 
