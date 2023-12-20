@@ -1,6 +1,6 @@
 
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/1127287128880074855/1148668163299479694/pepefrg-54.gif">
+<img src="https://r2.guns.lol/f1b2626c-f899-4b66-8d2d-3c870ab09965.png">
 </p>
 
 <p align="center">  
