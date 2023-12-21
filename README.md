@@ -1,6 +1,6 @@
 
 <p align="center">  
-<img src="https://r2.guns.lol/e5c8f819-6f44-4cc3-b50b-24ac0c2b6e71.png">
+<img src="https://i.postimg.cc/zvrzJjhV/removal-ai-daedbdfc-7230-4679-95dd-50e67708958a-output-onlinejpgtools.png">
 </p>
 
 <p align="center">  
