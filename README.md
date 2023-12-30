@@ -1,6 +1,6 @@
 
 <p align="center">  
-<img src="https://i.postimg.cc/zvrzJjhV/removal-ai-daedbdfc-7230-4679-95dd-50e67708958a-output-onlinejpgtools.png">
+<img src="">
 </p>
 
 <p align="center">  
